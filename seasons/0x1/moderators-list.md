@@ -95,7 +95,7 @@ This is just an example.
 
 This is just an example.
 
-- Discord user name: `Write your Discord user name`
+- Discord user name: `chihiro#9294`
 - UnUniFi address : `ununifi1xxxxxxxxxxxxxxxxxxxxxxxxx`
 - MEE6 experience point at the start of this season: `0`
 - MEE6 experience point at the end of this season: `Not yet`
