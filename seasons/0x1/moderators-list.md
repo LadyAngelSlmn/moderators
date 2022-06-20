@@ -93,10 +93,18 @@ This is just an example.
 - MEE6 experience point at the start of this season: `0`
 - MEE6 experience point at the end of this season: `Not yet`
 
-## Famo
+##  Famo
 
 - Discord username: `mcfemi6#7025`
 - UnUniFi address: `ununifi1qhxnlhh53y2t73urgdqqxn7ttkseegwz62aq4j`
+- MEE6 experience point at the start of this season: `0`
+- MEE6 experience point at the end of this season: `Not yet`
+
+
+## Lady Angel
+
+- Discord user name: `chihiro#9294`
+- UnUniFi address : `0x1B8aB27b75cF18eb98802caF0997D9D2DC835EFF `
 - MEE6 experience point at the start of this season: `0`
 - MEE6 experience point at the end of this season: `Not yet`
 
